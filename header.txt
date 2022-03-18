@@ -1,2 +1,5 @@
-Some test to header
-Changes from <master> - new changes!!
+Some text for header
+Changes from <master> 
+Changes from <first>
+
+Text from master:  new changes!!!
